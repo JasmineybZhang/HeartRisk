@@ -1,4 +1,5 @@
 # Projects
+https://docs.google.com/presentation/d/15kbofvk7PdLLsBC1uT6mGkNbyfrHWWvb/edit?usp=sharing&ouid=106925163719831252565&rtpof=true&sd=true
 # Heart Risk Assessment Tool
 # The Problem 
 Heart disease is a significant problem in the US being the leading cause of death. It prevence causes a high burden of disability, premature death, and reduced quality of life for individuals and their families. While there is no “cure” for heart disease, early detection is important as it allows for timely interventions, improves treatment outcomes, and reduces the risk of complications and mortality.
